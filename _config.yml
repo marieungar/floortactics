@@ -1,0 +1,20 @@
+title: Floor Tactics
+url: "https://floor-tactics.com"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./favicon.png"
+
+tracking_id: #
+
+footer: no
+footer_url: ""
+footer_text: ""
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+#  - name: "Contact"
+#    link: "contact"
